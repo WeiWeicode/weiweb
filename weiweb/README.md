@@ -1,3 +1,7 @@
+# Aws Amplify
+
+使用AWS Amplify 建立Vue前端服務
+
 # weiweb
 
 This template should help get you started developing with Vue 3 in Vite.
