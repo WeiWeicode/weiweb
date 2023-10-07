@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weiweb-dev-134440-authRole",
+      "UnauthRoleArn": "arn:aws:iam::672723334298:role/amplify-weiweb-dev-134440-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::672723334298:role/amplify-weiweb-dev-134440-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-weiweb-dev-134440-deployment",
+      "UnauthRoleName": "amplify-weiweb-dev-134440-unauthRole",
+      "StackName": "amplify-weiweb-dev-134440",
+      "StackId": "arn:aws:cloudformation:us-east-1:672723334298:stack/amplify-weiweb-dev-134440/a46682d1-64d4-11ee-9dbd-0e2f53510365",
+      "AmplifyAppId": "d1ryypx779vrnv"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1ryypx779vrnv",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
